@@ -1,0 +1,15 @@
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\bin\Debug\net6.0\Programming.exe
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\bin\Debug\net6.0\Programming.deps.json
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\bin\Debug\net6.0\Programming.runtimeconfig.json
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\bin\Debug\net6.0\Programming.dll
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\bin\Debug\net6.0\Programming.pdb
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.csproj.AssemblyReference.cache
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.AssemblyInfoInputs.cache
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.AssemblyInfo.cs
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.csproj.CoreCompileInputs.cache
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.dll
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\refint\Programming.dll
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.pdb
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\Programming.genruntimeconfig.cache
+c:\Users\phung\Desktop\winter2024\Programming\tictactoeLab\obj\Debug\net6.0\ref\Programming.dll
