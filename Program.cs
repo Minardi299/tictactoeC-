@@ -26,12 +26,12 @@ namespace TicTacToe
         {
             row--;
             column--;
-            while (row >= this.grid.GetLength(0) || column >= this.grid.GetLength(1))
+            while (row < 0 || column < 0 || row >= this.grid.GetLength(0) || column >= this.grid.GetLength(1))
             {
                 Console.WriteLine("Re Enter row: ");
-                row = Convert.ToInt32(Console.ReadLine());
+                row = Convert.ToInt32(Console.ReadLine())-1;
                 Console.WriteLine("Re Enter column: ");
-                column = Convert.ToInt32(Console.ReadLine());
+                column = Convert.ToInt32(Console.ReadLine())-1;
             }
             // while (x != 'X' || x != 'O' )
             // {
